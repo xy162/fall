@@ -9,8 +9,8 @@ fall-01-cam0-rgb-087.png stand  267 77 398 369
 fall-01-cam0-rgb-088.png stand  258 79 395 367
 fall-01-cam0-rgb-093.png stand  240 103 378 395
 fall-01-cam0-rgb-114.png fall  126 341 376 478
-fall-01-cam0-rgb-115.png stand  130 335 379 480
-fall-01-cam0-rgb-116.png stand  131 349 381 480
+fall-01-cam0-rgb-115.png fall  130 335 379 480
+fall-01-cam0-rgb-116.png fall  131 349 381 480
 fall-01-cam0-rgb-126.png fall  186 334 413 480
 fall-01-cam0-rgb-128.png fall  201 363 416 480
 fall-01-cam0-rgb-132.png fall  242 368 423 480
